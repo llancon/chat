@@ -1,4 +1,4 @@
-# Chat App with Rails 7 with Hotwire
+# Chat App to demonstrate Hotwire
 
 This is a chat application built with Rails 7.0.4.3 and Ruby 3.0. It uses [Hotwire](https://hotwire.dev/) to implement real-time features such as broadcasting and Turbo Streams. To demonstrate these features, the application allows users to create chat rooms and send messages within those rooms.
 
